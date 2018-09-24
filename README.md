@@ -5,4 +5,4 @@ Get BOFH excuses
 `docker build -t toughiq/bofh:latest .`
 
 ## Run
-`docker run -it --rm toughiq/bofh`
+`docker run --rm toughiq/bofh`
